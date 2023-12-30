@@ -87,5 +87,5 @@ Extras:
  </h2>
  
 ![Bruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBGMoura&theme=dracula&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BBGMoura&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BBGMoura&hide=javscript&layout=compact&theme=dracula)
 
