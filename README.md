@@ -28,6 +28,7 @@
     alt="LinkedIn Badge"/>
 </div>
 
+<!--
 <h2></h2>
 
  <b> A little more about me ... </b>
@@ -35,6 +36,8 @@
 - <img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="30">  I’m currently learning <b> SpringBoot & JPA </b>
 - <img src="https://media.giphy.com/media/PHhaNieEvkHao/giphy.gif" width="30">  Always ready to collaborate on joint projects
 
+
+-->
 
 <h2 >
   <img src="https://media.giphy.com/media/xT0GqgR2vg6h0mkfrW/giphy.gif" width="30">
