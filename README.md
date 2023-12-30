@@ -1,24 +1,32 @@
-<div id="header" align="center">
-  <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWh3dzh2dzNhMHVxanl5dWZqd2J4YzBzbmxsODhyaTh3NThmOHE0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" 
-    width="200">
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/bruna-moura-bracarense-guimaraes-0b46b8120/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BBGMoura&style=flat-square&color=blue" alt=""/>  
-</div>
-
-<h1 align="center">
-  Welcome
+<h1> 
+  Welcome! I'm Bruna
+  <img src="https://media.giphy.com/media/xT0GqgR2vg6h0mkfrW/giphy.gif" width="30">
 </h1>
+<img 
+  align='right' 
+  src="https://media.giphy.com/media/Uij3XZvlPkHjMDCz1w/giphy.gif" 
+  width="230"
+>
+<p>
+  <em>Graduate Master of Mechanical Engineering from
+    <a 
+      href="http://www.unb.br">SouthBank University
+    </a>
+  </br>
+    Full-Stack Developer at <a href="https://www.thoughtworks.com">Harvey Nash</a>
+  </em>
+</p>
+<div>
+<a href="https://www.linkedin.com/in/bruna-moura-0b46b8120/">
+  <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=pink" alt="LinkedIn Badge"/>
 
+  <a href="[https://www.linkedin.com/in/bruna-moura-0b46b8120/](https://github.com/BBGMoura)">
+  <img src="[https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=pink](https://img.shields.io/github/followers/BBGMoura?label=follow&style=social)" alt="LinkedIn Badge"/>
+  
+[![GitHub BBGMoura](https://img.shields.io/github/followers/BBGMoura?label=follow&style=social)](https://github.com/BBGMoura)
+</div>
 
-### :woman_technologist: About Me :
+### About Me :
 
 <div align="center"> 
   <h1 >
