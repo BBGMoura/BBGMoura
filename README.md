@@ -14,7 +14,7 @@
   Graduate MEng Mechanical Engineer.
   </br>
   Full-Stack Developer.
-    </em>
+  </em>
 </p>
 <div>
 <a href="https://www.linkedin.com/in/bruna-moura-0b46b8120/">
@@ -33,7 +33,7 @@
  <b> A little more about me ... </b>
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I'm currently working on <b>booking-system </b>
 - <img src="https://media.giphy.com/media/LpiVeIRgrqVsZJpM5H/giphy.gif" width="30">  I’m currently learning <b> SpringBoot & JPA </b>
-- <img src="https://media.giphy.com/media/PHhaNieEvkHao/giphy.gif" width="30">  Always ready to collaborate for joint projects
+- <img src="https://media.giphy.com/media/PHhaNieEvkHao/giphy.gif" width="30">  Always ready to collaborate on joint projects
 
 
 <h2 >
