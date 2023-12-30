@@ -13,7 +13,7 @@
   <em>
   Graduate MEng Mechanical Engineer.
   </br>
-  Full-Stack Developer at <b>Harvey Nash</b>.
+  Full-Stack Developer.
     </em>
 </p>
 <div>
