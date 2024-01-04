@@ -1,13 +1,9 @@
-<h2> 
-  <img src="https://media.giphy.com/media/xT0GqgR2vg6h0mkfrW/giphy.gif" width="30">
-  Welcome! I'm Bruna
-  <img src="https://media.giphy.com/media/xT0GqgR2vg6h0mkfrW/giphy.gif" width="30">
-</h2>
-<img 
+<h2> Welcome! I'm Bruna </h2>
+<!-- <img 
   align='right' 
   src="https://media.giphy.com/media/Uij3XZvlPkHjMDCz1w/giphy.gif" 
   width="230"
->
+> -->
 
 <p>
   <em>
@@ -40,9 +36,7 @@
 -->
 
 <h2 >
-  <img src="https://media.giphy.com/media/xT0GqgR2vg6h0mkfrW/giphy.gif" width="30">
    Languages and Tools :
-  <img src="https://media.giphy.com/media/xT0GqgR2vg6h0mkfrW/giphy.gif" width="30">
 </h2>
   
 Front-End:
@@ -81,9 +75,7 @@ Extras:
  </div>
 
  <h2>
-   <img src="https://media.giphy.com/media/xT0GqgR2vg6h0mkfrW/giphy.gif" width="30">
    Stats:
-   <img src="https://media.giphy.com/media/xT0GqgR2vg6h0mkfrW/giphy.gif" width="30">
  </h2>
  
 ![Bruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBGMoura&theme=dracula&show_icons=true)
