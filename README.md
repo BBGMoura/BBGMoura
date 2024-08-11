@@ -7,9 +7,9 @@
 
 <p>
   <em>
-  Graduate MEng Mechanical Engineer.
+  MEng Mechanical Engineer.
   </br>
-  Full-Stack Developer.
+  Full-Stack Engineer
   </em>
 </p>
 <div>
